@@ -1,0 +1,434 @@
+		{
+			"code": 200,
+	  		"data":
+	      			{ 
+	      					
+	      				  "excludeterms": "",
+  "stream":
+[
+	          {
+  "id": 64757,
+  "url": "\/\/english.ajax.nl\/streams\/matches\/highlights-sparta-rotterdam-ajax-1.htm?channel=json",
+  "slug": "highlights-sparta-rotterdam-ajax-1",
+  "title": "Highlights Sparta Rotterdam – Ajax ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64757_http:\/\/www.ajax.nl\/upload_mm\/3\/d\/4\/cid64757_Sparta%20-%20Aja.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/8\/2\/7\/cid64757_Sparta%20-%20Aja_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521474960,
+  "prominent": false,
+  "length": 439,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64742,
+  "url": "\/\/english.ajax.nl\/article\/ajax-gives-itself-a-nice-birthday-gift-.htm?channel=json",
+  "slug": "ajax-gives-itself-a-nice-birthday-gift-",
+  "title": "Ajax gives itself a nice birthday gift  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64742_\/upload_mm\/2\/0\/2\/cid64742_cid64731__D5A1439.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/6\/4\/4\/cid64742_cid64731__D5A1439_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521402180,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64723,
+  "url": "\/\/english.ajax.nl\/article\/andre-onana-and-siem-de-jong-fit-for-duel-against-sparta-.htm?channel=json",
+  "slug": "andre-onana-and-siem-de-jong-fit-for-duel-against-sparta-",
+  "title": "Andre Onana and Siem de Jong fit for duel against Sparta  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64723_\/upload_mm\/a\/d\/f\/cid64723_cid64720_Onana%20880%202017-11-18%20NAC-Ajax%200294%20lvdv.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/9\/c\/5\/cid64723_cid64720_Onana%20880%202017-11-18%20NAC-Ajax%200294%20lvdv_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521303720,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64711,
+  "url": "\/\/english.ajax.nl\/article\/onana-siem-de-jong-mazraoui-question-marks-for-sparta-.htm?channel=json",
+  "slug": "onana-siem-de-jong-mazraoui-question-marks-for-sparta-",
+  "title": "Onana, Siem de Jong & Mazraoui question marks for Sparta  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64711_\/upload_mm\/e\/c\/1\/cid64711_cid64702_Onana%20nw.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/b\/8\/9\/cid64711_cid64702_Onana%20nw_360x203.jpg",
+            "width": 360,
+            "height": 203
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521222780,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64684,
+  "url": "\/\/english.ajax.nl\/streams\/matches\/highlights-ajax-sc-heerenveen-10.htm?channel=json",
+  "slug": "highlights-ajax-sc-heerenveen-10",
+  "title": "Highlights Ajax – sc Heerenveen ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64684_http:\/\/www.ajax.nl\/upload_mm\/f\/0\/4\/cid64684_Ajax%20-%20Heerenveen.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/1\/6\/0\/cid64684_Ajax%20-%20Heerenveen_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520857860,
+  "prominent": false,
+  "length": 616,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64642,
+  "url": "\/\/english.ajax.nl\/article\/ten-hag-substituting-captain-was-a-big-decision-.htm?channel=json",
+  "slug": "ten-hag-substituting-captain-was-a-big-decision-",
+  "title": "Ten Hag: 'Substituting captain was a big decision’  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64642_\/upload_mm\/5\/3\/c\/cid64642_cid64637__D5B8237.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/4\/2\/b\/cid64642_cid64637__D5B8237_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520800680,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64641,
+  "url": "\/\/english.ajax.nl\/article\/ajax-brings-a-bit-of-excitement-back-.htm?channel=json",
+  "slug": "ajax-brings-a-bit-of-excitement-back-",
+  "title": "Ajax brings a bit of excitement back  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64641_\/upload_mm\/6\/2\/b\/cid64641_cid64633__D5B8350.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/1\/5\/5\/cid64641_cid64633__D5B8350_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520799240,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64626,
+  "url": "\/\/english.ajax.nl\/article\/huntelaar-and-kluivert-in-selection-against-heerenveen-.htm?channel=json",
+  "slug": "huntelaar-and-kluivert-in-selection-against-heerenveen-",
+  "title": "Huntelaar and Kluivert in selection against Heerenveen  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64626_\/upload_mm\/e\/d\/6\/cid64626_cid64623_Hoofdfoto%20HK.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/0\/f\/0\/cid64626_cid64623_Hoofdfoto%20HK_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520697300,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64618,
+  "url": "\/\/english.ajax.nl\/article\/ten-hag-need-to-slam-our-fist-down-on-the-table-.htm?channel=json",
+  "slug": "ten-hag-need-to-slam-our-fist-down-on-the-table-",
+  "title": "Ten Hag: 'Need to slam our fist down on the table’  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64618_\/upload_mm\/a\/f\/9\/cid64618_cid64604__D5B9040.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/5\/3\/b\/cid64618_cid64604__D5B9040_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520628180,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64561,
+  "url": "\/\/english.ajax.nl\/article\/title-slips-further-out-of-reach-after-loss-to-vitesse-.htm?channel=json",
+  "slug": "title-slips-further-out-of-reach-after-loss-to-vitesse-",
+  "title": "Title slips further out of reach after loss to Vitesse  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64561_\/upload_mm\/1\/2\/1\/cid64561_cid64555__D5B2691.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/5\/3\/0\/cid64561_cid64555__D5B2691_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520191020,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64482,
+  "url": "\/\/english.ajax.nl\/streams\/matches\/highlights-ajax-ado-den-haag-18.htm?channel=json",
+  "slug": "highlights-ajax-ado-den-haag-18",
+  "title": "Highlights Ajax – ADO Den Haag ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64482_http:\/\/www.ajax.nl\/upload_mm\/8\/c\/1\/cid64482_Ajax%20ADO.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/7\/3\/e\/cid64482_Ajax%20ADO_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519655460,
+  "prominent": false,
+  "length": 552,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64562,
+  "url": "\/\/english.ajax.nl\/article\/ajax-fails-to-increase-pressure-by-playing-to-a-tie-.htm?channel=json",
+  "slug": "ajax-fails-to-increase-pressure-by-playing-to-a-tie-",
+  "title": "Ajax fails to increase pressure by playing to a tie  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64562_\/upload_mm\/4\/3\/9\/cid64562_cid64457_balende%20Neres.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/8\/5\/9\/cid64562_cid64457_balende%20Neres_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519588200,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64388,
+  "url": "\/\/english.ajax.nl\/streams\/matches\/highlights-pec-zwolle-ajax-20.htm?channel=json",
+  "slug": "highlights-pec-zwolle-ajax-20",
+  "title": "Highlights PEC Zwolle – Ajax ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64388_http:\/\/www.ajax.nl\/upload_mm\/3\/6\/5\/cid64388_PEC%20ZWOLLE.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/c\/8\/6\/cid64388_PEC%20ZWOLLE_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519020000,
+  "prominent": false,
+  "length": 434,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64379,
+  "url": "\/\/english.ajax.nl\/article\/narrow-win-despite-many-opportunities-.htm?channel=json",
+  "slug": "narrow-win-despite-many-opportunities-",
+  "title": "Narrow win despite many opportunities  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64379_\/upload_mm\/c\/6\/3\/cid64379_cid64371__DSC3087.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/d\/5\/7\/cid64379_cid64371__DSC3087_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518981180,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64366,
+  "url": "\/\/english.ajax.nl\/article\/mitchel-bakker-in-selection-once-again-.htm?channel=json",
+  "slug": "mitchel-bakker-in-selection-once-again-",
+  "title": "Mitchel Bakker in selection once again  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64366_\/upload_mm\/c\/6\/9\/cid64366_cid64363_Bakker%20880%202017-11-25%20Ajax%20O19%20-%20NEC%20FC%20Oss%20O19%20049%20Ruhe.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/6\/6\/9\/cid64366_cid64363_Bakker%20880%202017-11-25%20Ajax%20O19%20-%20NEC%20FC%20Oss%20O19%20049%20Ruhe_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518947040,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+],	 
+	      			  "dummy": [] }
+	  	}

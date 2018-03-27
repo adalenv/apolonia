@@ -1,0 +1,1498 @@
+		{
+			"code": 200,
+	  		"data":
+	      			{ 
+	      					
+	      				  "excludeterms": "",
+  "fixed": 
+[
+	          {
+  "id": 45399,
+  "url": "\/\/english.ajax.nl\/article\/bc-stream-ajax-now-pos-1.htm?channel=json",
+  "slug": "bc-stream-ajax-now-pos-1",
+  "title": "BC stream Ajax NOW - pos 1",
+  "inStadionContent": false,
+  "date": 1441693320,
+  "prominent": false,
+  "content": "<div id=\"ajax-now_fix-pos-1\" class=\"fix-pos-1\"><\/div>", 
+  "type": "promo",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "promo", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 45400,
+  "url": "\/\/english.ajax.nl\/article\/bc-stream-ajax-now-pos-2.htm?channel=json",
+  "slug": "bc-stream-ajax-now-pos-2",
+  "title": "BC stream Ajax NOW - pos 2",
+  "inStadionContent": false,
+  "date": 1441693440,
+  "prominent": false,
+  "content": "<div id=\"ajax-now_fix-pos-2\" class=\"fix-pos-2\"><\/div>", 
+  "type": "promo",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "promo", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 45401,
+  "url": "\/\/english.ajax.nl\/article\/bc-stream-ajax-now-pos-3.htm?channel=json",
+  "slug": "bc-stream-ajax-now-pos-3",
+  "title": "BC stream Ajax NOW - pos 3",
+  "inStadionContent": false,
+  "date": 1441693500,
+  "prominent": false,
+  "content": "<div id=\"ajax-now_fix-pos-3\" class=\"fix-pos-3\"><\/div>", 
+  "type": "promo",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "promo", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 46873,
+  "url": "\/\/english.ajax.nl\/article\/bc-stream-ajax-now-pos-4.htm?channel=json",
+  "slug": "bc-stream-ajax-now-pos-4",
+  "title": "BC stream Ajax NOW - pos 4",
+  "inStadionContent": false,
+  "date": 1444813620,
+  "prominent": false,
+  "content": "<div id=\"ajax-now_fix-pos-4\" class=\"fix-pos-4\"><\/div>", 
+  "type": "promo",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "promo", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+],	
+              "excludeterms": "",
+  "stream":
+[
+	          {
+  "id": 64757,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-sparta-rotterdam-ajax-1.htm?channel=json",
+  "slug": "highlights-sparta-rotterdam-ajax-1",
+  "title": "Highlights Sparta Rotterdam – Ajax ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64757_http:\/\/www.ajax.nl\/upload_mm\/3\/d\/4\/cid64757_Sparta%20-%20Aja.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/8\/2\/7\/cid64757_Sparta%20-%20Aja_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521474960,
+  "prominent": false,
+  "length": 439,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64742,
+  "url": "\/\/english.ajax.nl\/article\/ajax-gives-itself-a-nice-birthday-gift-.htm?channel=json",
+  "slug": "ajax-gives-itself-a-nice-birthday-gift-",
+  "title": "Ajax gives itself a nice birthday gift  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64742_\/upload_mm\/2\/0\/2\/cid64742_cid64731__D5A1439.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/6\/4\/4\/cid64742_cid64731__D5A1439_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521402180,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64755,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-de-graafschap-ajax-reserves-1.htm?channel=json",
+  "slug": "highlights-de-graafschap-ajax-reserves-1",
+  "title": "Highlights De Graafschap - Ajax Reserves",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64755_http:\/\/www.ajax.nl\/upload_mm\/4\/e\/a\/cid64755_De%20Graafschap%20-%20Jong%20Ajax.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/a\/c\/9\/cid64755_De%20Graafschap%20-%20Jong%20Ajax_360x201.jpg",
+            "width": 360,
+            "height": 201
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521370800,
+  "prominent": false,
+  "length": 344,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64725,
+  "url": "\/\/english.ajax.nl\/article\/sierhuis-hat-trick-helps-ajax-reserves-beat-de-graafschap-.htm?channel=json",
+  "slug": "sierhuis-hat-trick-helps-ajax-reserves-beat-de-graafschap-",
+  "title": "Sierhuis’ hat trick helps Ajax Reserves beat De Graafschap  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64725_\/upload_mm\/2\/0\/2\/cid64725_cid64712_graafschapJongAjax_10.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/a\/2\/6\/cid64725_cid64712_graafschapJongAjax_10_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521304860,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64724,
+  "url": "\/\/english.ajax.nl\/article\/-ajax-women-start-play-offs-by-defeating-pec-zwolle.htm?channel=json",
+  "slug": "-ajax-women-start-play-offs-by-defeating-pec-zwolle",
+  "title": " Ajax Women start play-offs by defeating PEC Zwolle",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64724_\/upload_mm\/0\/c\/3\/cid64724_cid64713__D5B0874.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/6\/b\/d\/cid64724_cid64713__D5B0874_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521304200,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64723,
+  "url": "\/\/english.ajax.nl\/article\/andre-onana-and-siem-de-jong-fit-for-duel-against-sparta-.htm?channel=json",
+  "slug": "andre-onana-and-siem-de-jong-fit-for-duel-against-sparta-",
+  "title": "Andre Onana and Siem de Jong fit for duel against Sparta  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64723_\/upload_mm\/a\/d\/f\/cid64723_cid64720_Onana%20880%202017-11-18%20NAC-Ajax%200294%20lvdv.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/9\/c\/5\/cid64723_cid64720_Onana%20880%202017-11-18%20NAC-Ajax%200294%20lvdv_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521303720,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64711,
+  "url": "\/\/english.ajax.nl\/article\/onana-siem-de-jong-mazraoui-question-marks-for-sparta-.htm?channel=json",
+  "slug": "onana-siem-de-jong-mazraoui-question-marks-for-sparta-",
+  "title": "Onana, Siem de Jong & Mazraoui question marks for Sparta  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64711_\/upload_mm\/e\/c\/1\/cid64711_cid64702_Onana%20nw.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/b\/8\/9\/cid64711_cid64702_Onana%20nw_360x203.jpg",
+            "width": 360,
+            "height": 203
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521222780,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64756,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/top-10-goals-kolbeinn-sigthorsson-.htm?channel=json",
+  "slug": "top-10-goals-kolbeinn-sigthorsson-",
+  "title": "Top 10 Goals: Kolbeinn Sigthórsson ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64756_http:\/\/www.ajax.nl\/upload_mm\/3\/3\/7\/cid64756_Top%2010%20Kolbeinn.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/8\/e\/5\/cid64756_Top%2010%20Kolbeinn_360x201.jpg",
+            "width": 360,
+            "height": 201
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521115200,
+  "prominent": false,
+  "length": 208,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64754,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/ajax-visit-childrens-hospital-in-amsterdam-.htm?channel=json",
+  "slug": "ajax-visit-childrens-hospital-in-amsterdam-",
+  "title": "Ajax visit Children’s Hospital in Amsterdam ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64754_http:\/\/www.ajax.nl\/upload_mm\/5\/4\/0\/cid64754_VUMC.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/e\/7\/9\/cid64754_VUMC_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1521028800,
+  "prominent": false,
+  "length": 274,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64663,
+  "url": "\/\/english.ajax.nl\/article\/nomination-danny-blind-as-ajax-commissioner-.htm?channel=json",
+  "slug": "nomination-danny-blind-as-ajax-commissioner-",
+  "title": "Nomination Danny Blind as Ajax commissioner  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64663_\/upload_mm\/a\/c\/9\/cid64663_cid64653_BLIND.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "660",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/c\/6\/4\/cid64663_cid64653_BLIND_660x371.jpg",
+            "width": 660,
+            "height": 371
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520884080,
+  "prominent": true,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64684,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-ajax-sc-heerenveen-10.htm?channel=json",
+  "slug": "highlights-ajax-sc-heerenveen-10",
+  "title": "Highlights Ajax – sc Heerenveen ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64684_http:\/\/www.ajax.nl\/upload_mm\/f\/0\/4\/cid64684_Ajax%20-%20Heerenveen.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/1\/6\/0\/cid64684_Ajax%20-%20Heerenveen_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520857860,
+  "prominent": false,
+  "length": 616,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64642,
+  "url": "\/\/english.ajax.nl\/article\/ten-hag-substituting-captain-was-a-big-decision-.htm?channel=json",
+  "slug": "ten-hag-substituting-captain-was-a-big-decision-",
+  "title": "Ten Hag: 'Substituting captain was a big decision’  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64642_\/upload_mm\/5\/3\/c\/cid64642_cid64637__D5B8237.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/4\/2\/b\/cid64642_cid64637__D5B8237_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520800680,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64641,
+  "url": "\/\/english.ajax.nl\/article\/ajax-brings-a-bit-of-excitement-back-.htm?channel=json",
+  "slug": "ajax-brings-a-bit-of-excitement-back-",
+  "title": "Ajax brings a bit of excitement back  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64641_\/upload_mm\/6\/2\/b\/cid64641_cid64633__D5B8350.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/1\/5\/5\/cid64641_cid64633__D5B8350_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520799240,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64626,
+  "url": "\/\/english.ajax.nl\/article\/huntelaar-and-kluivert-in-selection-against-heerenveen-.htm?channel=json",
+  "slug": "huntelaar-and-kluivert-in-selection-against-heerenveen-",
+  "title": "Huntelaar and Kluivert in selection against Heerenveen  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64626_\/upload_mm\/e\/d\/6\/cid64626_cid64623_Hoofdfoto%20HK.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/0\/f\/0\/cid64626_cid64623_Hoofdfoto%20HK_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520697300,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64618,
+  "url": "\/\/english.ajax.nl\/article\/ten-hag-need-to-slam-our-fist-down-on-the-table-.htm?channel=json",
+  "slug": "ten-hag-need-to-slam-our-fist-down-on-the-table-",
+  "title": "Ten Hag: 'Need to slam our fist down on the table’  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64618_\/upload_mm\/a\/f\/9\/cid64618_cid64604__D5B9040.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/5\/3\/b\/cid64618_cid64604__D5B9040_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520628180,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64682,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/top-10-goals-klaas-jan-huntelaar-1.htm?channel=json",
+  "slug": "top-10-goals-klaas-jan-huntelaar-1",
+  "title": "Top 10 Goals: Klaas Jan Huntelaar ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64682_http:\/\/www.ajax.nl\/upload_mm\/1\/e\/e\/cid64682_Huntelaar.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/0\/1\/0\/cid64682_Huntelaar_360x200.jpg",
+            "width": 360,
+            "height": 200
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520511960,
+  "prominent": false,
+  "length": 188,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64683,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/ajax-discover-new-academy-talent-during-the-talent-days-.htm?channel=json",
+  "slug": "ajax-discover-new-academy-talent-during-the-talent-days-",
+  "title": "Ajax discover new Academy talent during the Talent Days ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64683_http:\/\/www.ajax.nl\/upload_mm\/d\/c\/3\/cid64683_Talentendagen.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/2\/0\/1\/cid64683_Talentendagen_360x201.jpg",
+            "width": 360,
+            "height": 201
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520425560,
+  "prominent": false,
+  "length": 223,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64569,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-almere-city-fc-ajax-reserves.htm?channel=json",
+  "slug": "highlights-almere-city-fc-ajax-reserves",
+  "title": "Highlights Almere City FC - Ajax Reserves",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64569_http:\/\/www.ajax.nl\/upload_mm\/4\/d\/c\/cid64569_almere%20city%20jong%20ajax%20eng%20still.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "660",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/2\/1\/5\/cid64569_almere%20city%20jong%20ajax%20eng%20still_660x371.jpg",
+            "width": 660,
+            "height": 371
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520312400,
+  "prominent": true,
+  "length": 309,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64570,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-vitesse-ajax-21.htm?channel=json",
+  "slug": "highlights-vitesse-ajax-21",
+  "title": "Highlights Vitesse - Ajax",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64570_http:\/\/www.ajax.nl\/upload_mm\/4\/4\/f\/cid64570_still%20vitaja%20english.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/f\/4\/d\/cid64570_still%20vitaja%20english_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520259360,
+  "prominent": false,
+  "length": 535,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "App", "SpanishVdeo", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64561,
+  "url": "\/\/english.ajax.nl\/article\/title-slips-further-out-of-reach-after-loss-to-vitesse-.htm?channel=json",
+  "slug": "title-slips-further-out-of-reach-after-loss-to-vitesse-",
+  "title": "Title slips further out of reach after loss to Vitesse  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64561_\/upload_mm\/1\/2\/1\/cid64561_cid64555__D5B2691.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/5\/3\/0\/cid64561_cid64555__D5B2691_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520191020,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64550,
+  "url": "\/\/english.ajax.nl\/article\/ajax-reserves-beat-almere-city-in-injury-time-.htm?channel=json",
+  "slug": "ajax-reserves-beat-almere-city-in-injury-time-",
+  "title": "Ajax Reserves beat Almere City in injury time  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64550_\/upload_mm\/c\/b\/d\/cid64550_15707ad3-e551-4431-82d2-5fe446230cd4_flemming02.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/5\/5\/e\/cid64550_15707ad3-e551-4431-82d2-5fe446230cd4_flemming02_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520167740,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64551,
+  "url": "\/\/english.ajax.nl\/article\/schone-appears-ready-for-vitesse-huntelaar-an-uncertainty-.htm?channel=json",
+  "slug": "schone-appears-ready-for-vitesse-huntelaar-an-uncertainty-",
+  "title": "Schöne appears ready for Vitesse, Huntelaar an uncertainty ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64551_\/upload_mm\/8\/1\/9\/cid64551__D5B9040.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/3\/3\/1\/cid64551__D5B9040_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1520081520,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64568,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/top-10-goals-steven-pienaar.htm?channel=json",
+  "slug": "top-10-goals-steven-pienaar",
+  "title": "Top 10 Goals: Steven Pienaar",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64568_http:\/\/www.ajax.nl\/upload_mm\/4\/1\/e\/cid64568_top%2010%20pienaar%20eng%20still.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/4\/b\/d\/cid64568_top%2010%20pienaar%20eng%20still_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519999860,
+  "prominent": false,
+  "length": 193,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "App", "SpanishVdeo", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64498,
+  "url": "\/\/english.ajax.nl\/article\/ajax-makes-net-profit-of-16.9-million-.htm?channel=json",
+  "slug": "ajax-makes-net-profit-of-16.9-million-",
+  "title": "Ajax makes net profit of € 16.9 million ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64498_\/upload_mm\/f\/7\/7\/cid64498_JC.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/d\/c\/f\/cid64498_JC_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519802280,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64482,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-ajax-ado-den-haag-18.htm?channel=json",
+  "slug": "highlights-ajax-ado-den-haag-18",
+  "title": "Highlights Ajax – ADO Den Haag ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64482_http:\/\/www.ajax.nl\/upload_mm\/8\/c\/1\/cid64482_Ajax%20ADO.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/7\/3\/e\/cid64482_Ajax%20ADO_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519655460,
+  "prominent": false,
+  "length": 552,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64476,
+  "url": "\/\/english.ajax.nl\/article\/ajax-fails-to-turn-up-the-heat-with-draw-.htm?channel=json",
+  "slug": "ajax-fails-to-turn-up-the-heat-with-draw-",
+  "title": "Ajax fails to turn up the heat with draw  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64476_\/upload_mm\/b\/c\/0\/cid64476_AJAADO.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/e\/3\/8\/cid64476_AJAADO_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519648380,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64562,
+  "url": "\/\/english.ajax.nl\/article\/ajax-fails-to-increase-pressure-by-playing-to-a-tie-.htm?channel=json",
+  "slug": "ajax-fails-to-increase-pressure-by-playing-to-a-tie-",
+  "title": "Ajax fails to increase pressure by playing to a tie  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64562_\/upload_mm\/4\/3\/9\/cid64562_cid64457_balende%20Neres.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/8\/5\/9\/cid64562_cid64457_balende%20Neres_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519588200,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64480,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/top-10-goals-shota-arveladze-.htm?channel=json",
+  "slug": "top-10-goals-shota-arveladze-",
+  "title": "Top 10 Goals: Shota Arveladze  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64480_http:\/\/www.ajax.nl\/upload_mm\/4\/5\/d\/cid64480_Top%2010.png",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/9\/7\/9\/cid64480_Top%2010_360x200.png",
+            "width": 360,
+            "height": 200
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519326000,
+  "prominent": false,
+  "length": 199,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64479,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/amin-younes-ready-to-give-his-all-for-ajax-again-.htm?channel=json",
+  "slug": "amin-younes-ready-to-give-his-all-for-ajax-again-",
+  "title": "Amin Younes ready to give his all for Ajax again ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64479_http:\/\/www.ajax.nl\/upload_mm\/3\/9\/f\/cid64479_Younes.png",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/c\/d\/5\/cid64479_Younes_360x201.png",
+            "width": 360,
+            "height": 201
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519074000,
+  "prominent": false,
+  "length": 256,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64389,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/top-10-goals-rafael-van-der-vaart.htm?channel=json",
+  "slug": "top-10-goals-rafael-van-der-vaart",
+  "title": "Top 10 Goals: Rafael van der Vaart",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64389_http:\/\/www.ajax.nl\/upload_mm\/8\/1\/f\/cid64389_2004-10-31%20Ajax-NEC%200021.JPG",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/f\/d\/1\/cid64389_2004-10-31%20Ajax-NEC%200021_360x240.JPG",
+            "width": 360,
+            "height": 240
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519063200,
+  "prominent": false,
+  "length": 165,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64388,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-pec-zwolle-ajax-20.htm?channel=json",
+  "slug": "highlights-pec-zwolle-ajax-20",
+  "title": "Highlights PEC Zwolle – Ajax ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64388_http:\/\/www.ajax.nl\/upload_mm\/3\/6\/5\/cid64388_PEC%20ZWOLLE.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/c\/8\/6\/cid64388_PEC%20ZWOLLE_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1519020000,
+  "prominent": false,
+  "length": 434,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64379,
+  "url": "\/\/english.ajax.nl\/article\/narrow-win-despite-many-opportunities-.htm?channel=json",
+  "slug": "narrow-win-despite-many-opportunities-",
+  "title": "Narrow win despite many opportunities  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64379_\/upload_mm\/c\/6\/3\/cid64379_cid64371__DSC3087.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/d\/5\/7\/cid64379_cid64371__DSC3087_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518981180,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64366,
+  "url": "\/\/english.ajax.nl\/article\/mitchel-bakker-in-selection-once-again-.htm?channel=json",
+  "slug": "mitchel-bakker-in-selection-once-again-",
+  "title": "Mitchel Bakker in selection once again  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64366_\/upload_mm\/c\/6\/9\/cid64366_cid64363_Bakker%20880%202017-11-25%20Ajax%20O19%20-%20NEC%20FC%20Oss%20O19%20049%20Ruhe.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/6\/6\/9\/cid64366_cid64363_Bakker%20880%202017-11-25%20Ajax%20O19%20-%20NEC%20FC%20Oss%20O19%20049%20Ruhe_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518947040,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64369,
+  "url": "\/\/english.ajax.nl\/article\/ajax-women-grab-win-in-friesland-.htm?channel=json",
+  "slug": "ajax-women-grab-win-in-friesland-",
+  "title": "Ajax Women grab win in Friesland  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64369_\/upload_mm\/9\/0\/b\/cid64369_cid64358_Inessa.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/f\/1\/2\/cid64369_cid64358_Inessa_360x204.jpg",
+            "width": 360,
+            "height": 204
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518866340,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64387,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-ajax-u19-feyenoord-u19-1.htm?channel=json",
+  "slug": "highlights-ajax-u19-feyenoord-u19-1",
+  "title": "Highlights Ajax U19 – Feyenoord U19 ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64387_http:\/\/www.ajax.nl\/upload_mm\/d\/d\/c\/cid64387_Ajax%20O19.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/d\/c\/7\/cid64387_Ajax%20O19_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518846300,
+  "prominent": false,
+  "length": 357,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64319,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-ajax-fc-twente-10.htm?channel=json",
+  "slug": "highlights-ajax-fc-twente-10",
+  "title": "Highlights Ajax – FC Twente ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64319_http:\/\/www.ajax.nl\/upload_mm\/a\/4\/2\/cid64319_TWENTE.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/3\/f\/9\/cid64319_TWENTE_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518418800,
+  "prominent": false,
+  "length": 419,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64291,
+  "url": "\/\/english.ajax.nl\/article\/ajax-finally-masters-fc-twente-.htm?channel=json",
+  "slug": "ajax-finally-masters-fc-twente-",
+  "title": "Ajax finally masters FC Twente  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64291_\/upload_mm\/f\/c\/c\/cid64291_cid64273__DSC2209.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/3\/8\/8\/cid64291_cid64273__DSC2209_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518361980,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64267,
+  "url": "\/\/english.ajax.nl\/article\/de-ligt-and-wober-back-in-selection-for-fc-twente-game-.htm?channel=json",
+  "slug": "de-ligt-and-wober-back-in-selection-for-fc-twente-game-",
+  "title": "De Ligt and Wöber back in selection for FC Twente game  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64267_\/upload_mm\/0\/0\/e\/cid64267_cid64263_Ligt%20Wober%20880%202017-12-02%20Twente-Ajax%200231%20LvdV.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/c\/7\/6\/cid64267_cid64263_Ligt%20Wober%20880%202017-12-02%20Twente-Ajax%200231%20LvdV_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518278280,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64266,
+  "url": "\/\/english.ajax.nl\/article\/ajax-reserves-split-points-in-winter-show-.htm?channel=json",
+  "slug": "ajax-reserves-split-points-in-winter-show-",
+  "title": "Ajax Reserves split points in winter show  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64266_\/upload_mm\/7\/5\/f\/cid64266_cid64261_Hoofdfoto.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/5\/e\/6\/cid64266_cid64261_Hoofdfoto_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518278220,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64265,
+  "url": "\/\/english.ajax.nl\/article\/ajax-women-defeat-excelsior-easily-.htm?channel=json",
+  "slug": "ajax-women-defeat-excelsior-easily-",
+  "title": "Ajax Women defeat Excelsior easily  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64265_\/upload_mm\/a\/f\/8\/cid64265_cid64250__D5B1550.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/6\/7\/a\/cid64265_cid64250__D5B1550_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518277740,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64320,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-telstar-ajax-reserves-1.htm?channel=json",
+  "slug": "highlights-telstar-ajax-reserves-1",
+  "title": "Highlights Telstar – Ajax Reserves  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64320_http:\/\/www.ajax.nl\/upload_mm\/4\/b\/d\/cid64320_Ajax%20RES.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/2\/4\/f\/cid64320_Ajax%20RES_360x203.jpg",
+            "width": 360,
+            "height": 203
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518253200,
+  "prominent": false,
+  "length": 375,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64317,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-roda-jc-ajax-9.htm?channel=json",
+  "slug": "highlights-roda-jc-ajax-9",
+  "title": "Highlights Roda JC – Ajax ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64317_http:\/\/www.ajax.nl\/upload_mm\/9\/d\/4\/cid64317_RODA%20JC.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/8\/a\/1\/cid64317_RODA%20JC_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518184800,
+  "prominent": false,
+  "length": 310,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64231,
+  "url": "\/\/english.ajax.nl\/article\/birthday-boy-jensen-extends-contract-until-mid-2023-.htm?channel=json",
+  "slug": "birthday-boy-jensen-extends-contract-until-mid-2023-",
+  "title": "Birthday boy Jensen extends contract until mid-2023  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64231_\/upload_mm\/0\/e\/3\/cid64231_cid64227_2018-02-08%20Contract%20V%20Jensen%200019.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/7\/2\/8\/cid64231_cid64227_2018-02-08%20Contract%20V%20Jensen%200019_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518096900,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64228,
+  "url": "\/\/english.ajax.nl\/article\/huntelaar-everything-worked-after-halftime-.htm?channel=json",
+  "slug": "huntelaar-everything-worked-after-halftime-",
+  "title": "Huntelaar: 'Everything worked after halftime'  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64228_\/upload_mm\/a\/4\/d\/cid64228_cid64222__D5A8901.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/e\/c\/5\/cid64228_cid64222__D5A8901_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518085920,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64226,
+  "url": "\/\/english.ajax.nl\/article\/ziyech-lets-his-feet-do-the-talking-3-points-for-ajax-.htm?channel=json",
+  "slug": "ziyech-lets-his-feet-do-the-talking-3-points-for-ajax-",
+  "title": "Ziyech lets his feet do the talking: 3 points for Ajax  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64226_\/upload_mm\/1\/b\/2\/cid64226_cid64219__D5B0143.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/9\/0\/0\/cid64226_cid64219__D5B0143_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1518085140,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64208,
+  "url": "\/\/english.ajax.nl\/article\/mitchel-bakker-debuts-in-selection-for-match-against-roda-jc-.htm?channel=json",
+  "slug": "mitchel-bakker-debuts-in-selection-for-match-against-roda-jc-",
+  "title": "Mitchel Bakker debuts in selection for match against Roda JC  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64208_\/upload_mm\/c\/d\/5\/cid64208_cid64197_Bakker%20Mitchel%20880%202017-11-25%20Ajax%20O19%20-%20NEC%20FC%20Oss%20O19%20080%20Jasper%20Ruhe.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/a\/4\/a\/cid64208_cid64197_Bakker%20Mitchel%20880%202017-11-25%20Ajax%20O19%20-%20NEC%20FC%20Oss%20O19%20080%20Jasper%20Ruhe_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1517990940,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64201,
+  "url": "\/\/english.ajax.nl\/article\/younes-leads-ajax-reserves-to-top-of-jupiler-league-.htm?channel=json",
+  "slug": "younes-leads-ajax-reserves-to-top-of-jupiler-league-",
+  "title": "Younes leads Ajax Reserves to top of Jupiler League  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64201_\/upload_mm\/e\/8\/d\/cid64201_cid64186_JA%20Helmond%20Sport%20Younes%20actie.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/9\/3\/c\/cid64201_cid64186_JA%20Helmond%20Sport%20Younes%20actie_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1517942520,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64318,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-ajax-u19-psg-u19-youth-league-.htm?channel=json",
+  "slug": "highlights-ajax-u19-psg-u19-youth-league-",
+  "title": "Highlights Ajax U19 – PSG U19 (Youth League) ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64318_http:\/\/www.ajax.nl\/upload_mm\/4\/b\/0\/cid64318_Ajax%20U19.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/e\/b\/b\/cid64318_Ajax%20U19_360x202.jpg",
+            "width": 360,
+            "height": 202
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1517929200,
+  "prominent": false,
+  "length": 500,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64190,
+  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/highlights-ajax-nac-breda-5.htm?channel=json",
+  "slug": "highlights-ajax-nac-breda-5",
+  "title": "Highlights Ajax – NAC Breda ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64190_http:\/\/www.ajax.nl\/upload_mm\/c\/0\/e\/cid64190_Ajax%20NAC.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/www.ajax.nl\/upload_mm\/f\/c\/3\/cid64190_Ajax%20NAC_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1517817600,
+  "prominent": false,
+  "length": 445,
+  "type": "wmavideomediaitem",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "Partidos", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+	          ,
+{
+  "id": 64171,
+  "url": "\/\/english.ajax.nl\/article\/ajax-posts-dutiful-win-against-nac-breda-.htm?channel=json",
+  "slug": "ajax-posts-dutiful-win-against-nac-breda-",
+  "title": "Ajax posts dutiful win against NAC Breda  ",
+  "inStadionContent": false,
+  "thumbnail": {
+    "id": "64171_\/upload_mm\/c\/2\/0\/cid64171_cid64160__D5B6445.jpg",
+    "type": "image",
+    "urls": [ 
+    	{
+    		"type": "360",
+    		"url": "\/\/english.ajax.nl\/upload_mm\/0\/3\/1\/cid64171_cid64160__D5B6445_360x222.jpg",
+            "width": 360,
+            "height": 222
+        }
+     ],
+    "caption": ""
+    }, 
+  "date": 1517779860,
+  "prominent": false,
+  "type": "article",
+  "channel_tags": ["App", "Web"],
+  "edit_tags": ["English", "App", "matches", "Web"],
+  "tag": "",
+  "isAuthorized": ""
+}
+],	 
+	      			  "dummy": [] }
+	  	}

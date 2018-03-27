@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="400px" viewBox="0 0 1024 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Hero image Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1024" height="400"></rect>
+        <linearGradient x1="0%" y1="50%" x2="99.1370376%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#E6E6E6" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="20.-Responsive" transform="translate(-399.000000, -1144.000000)">
+            <g id="Group-Copy" transform="translate(399.000000, 1088.000000)">
+                <g id="Hero-image-Copy-5" transform="translate(0.000000, 56.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F6F6F6" xlink:href="#path-1"></use>
+                    <path d="M359.306644,-678.726146 L513.963957,-524.068832 L668.62127,-678.726146 L771.726146,-575.62127 L617.068832,-420.963957 L771.726146,-266.306644 L663.951863,-158.532361 L509.29455,-313.189674 L359.306644,-163.201768 L256.201768,-266.306644 L406.383459,-416.488335 L251.726146,-571.145648 L359.306644,-678.726146 Z M359.306644,-60.0968925 L513.963957,94.5604208 L668.62127,-60.0968925 L771.726146,43.007983 L617.068832,197.665296 L771.726146,352.32261 L663.951863,460.096893 L509.29455,305.439579 L359.306644,455.427485 L256.201768,352.32261 L406.383459,202.140919 L251.726146,47.4836053 L359.306644,-60.0968925 Z M359.306644,558.532361 L513.963957,713.189674 L668.62127,558.532361 L771.726146,661.637236 L617.068832,816.29455 L771.726146,970.951863 L663.951863,1078.72615 L509.29455,924.068832 L359.306644,1074.05674 L256.201768,970.951863 L406.383459,820.770172 L251.726146,666.112859 L359.306644,558.532361 Z" id="Andreas-Copy-17" fill="url(#linearGradient-3)" mask="url(#mask-2)" transform="translate(511.726146, 200.000000) rotate(90.000000) translate(-511.726146, -200.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
