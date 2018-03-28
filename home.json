@@ -1,157 +1,158 @@
-		{
-			"code": 200,
-	    		
-	  		"data":
-	     			[
-      {
-        "id": 442681,
-        "url": "\/\/apolonia.al\/ajax-now.json?channel=json",
-        "share_url": "\/\/apolonia.al\/streams\/ajax-now.htm",
-        "slug": "ajax-now",
-        "title": "Ajax Now",
-        "caption": "",
-        "subcaption": "",
-        "ctaText": "Read",
-        "heroArticlePreview": 
-        {
-              "id": 64829,
-  "url": "\/\/english.ajax.nl\/streams\/ajax-now\/ajax-reserves-lose-to-az-reserves-at-home-.htm?channel=json",
-  "slug": "ajax-reserves-lose-to-az-reserves-at-home-",
-  "title": "Ajax Reserves lose to AZ Reserves at home  ",
-  "inStadionContent": false,
-  "date": 1522097520,
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["English", "App", "Web"],
-  "tags": [],
-  "type": "article",
-  "isAuthorized": "",
-  "media": {
-            "id": "64829_media",
-            "type": "image",
-            "urls": [{
-				"type": "800",
-				"url": "\/\/english.ajax.nl\/upload_mm\/a\/9\/7\/cid64829_cid64811_JONG.jpg",
-        "width": 878,
-        "height": 495
-             }],
-            "caption": ""
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 442681,
+      "url": "//apolonia.al/ajax-now.json?channel=json",
+      "share_url": "//apolonia.al/streams/ajax-now.htm",
+      "slug": "ajax-now",
+      "title": "Ajax Now",
+      "caption": "",
+      "subcaption": "",
+      "ctaText": "Read",
+      "heroArticlePreview": {
+        "id": 64829,
+        "url": "//english.ajax.nl/streams/ajax-now/ajax-reserves-lose-to-az-reserves-at-home-.htm?channel=json",
+        "slug": "ajax-reserves-lose-to-az-reserves-at-home-",
+        "title": "Ajax Reserves lose to AZ Reserves at home  ",
+        "inStadionContent": false,
+        "date": 1522097520,
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "English",
+          "App",
+          "Web"
+        ],
+        "tags": [],
+        "type": "article",
+        "isAuthorized": "",
+        "media": {
+          "id": "64829_media",
+          "type": "image",
+          "urls": [
+            {
+              "type": "800",
+              "url": "//english.ajax.nl/upload_mm/a/9/7/cid64829_cid64811_JONG.jpg",
+              "width": 878,
+              "height": 495
+            }
+          ],
+          "caption": ""
+        },
+        "thumbnail": {
+          "id": "64829_/upload_mm/a/9/7/cid64829_cid64811_JONG.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "660",
+              "url": "//english.ajax.nl/upload_mm/4/4/6/cid64829_cid64811_JONG_800x451.jpg",
+              "width": 800,
+              "height": 451
+            }
+          ],
+          "caption": ""
+        },
+        "content": "",
+        "dummy": ""
+      },
+      "last_updated": 1522097580107,
+      "default": true,
+      "media": {
+        "id": "442681_metadata",
+        "type": "image",
+        "urls": [
+          {
+            "type": "1440",
+            "url": "//english.ajax.nl/upload_mm/a/9/7/cid64829_cid64811_JONG.jpg",
+            "width": 878,
+            "height": 495
           },
-    "thumbnail": {
-      "id": "64829_\/upload_mm\/a\/9\/7\/cid64829_cid64811_JONG.jpg",
-      "type": "image",
-      "urls": [ 
-      		{
-      			"type": "660",
-      			"url": "\/\/english.ajax.nl\/upload_mm\/4\/4\/6\/cid64829_cid64811_JONG_800x451.jpg",
-	          "width": 800,
-            "height": 451
-	        }
-	    ],
-      "caption": ""
+          {
+            "type": "480",
+            "url": "//english.ajax.nl/upload_mm/8/8/4/cid64829_cid64811_JONG_851x480.jpg",
+            "width": 851,
+            "height": 480
+          }
+        ]
+      },
+      "sectioning": [
+        "week"
+      ]
     },
-    "content": ""
-  ,
-            "dummy": ""
-        },
-        "last_updated": 1522097580107,
-        "default": true,
-        "media": {
-          "id": "442681_metadata",
-          "type": "image",
-          "urls": [
-              {
-                  "type": "1440",
-                  "url": "\/\/english.ajax.nl\/upload_mm\/a\/9\/7\/cid64829_cid64811_JONG.jpg",
-                  "width": 878,
-                  "height": 495
-              },
-              {
-                  "type": "480",
-                  "url": "\/\/english.ajax.nl\/upload_mm\/8\/8\/4\/cid64829_cid64811_JONG_851x480.jpg",
-                  "width": 851,
-                  "height": 480
-              }
-          ]
-        },
-        "sectioning": [
-            "week"
+    {
+      "id": 442653,
+      "url": "//apolonia.al/matches.json?channel=json",
+      "share_url": "//apolonia.al/streams/matches.htm",
+      "slug": "matches",
+      "title": "Matches",
+      "caption": "",
+      "subcaption": "",
+      "ctaText": "",
+      "heroArticlePreview": {
+        "dummy": ""
+      },
+      "last_updated": 1521533940380,
+      "default": false,
+      "media": {
+        "id": "442653_metadata",
+        "type": "image",
+        "urls": [
+          {
+            "type": "1440",
+            "url": "//english.ajax.nl/upload/702a636b-f107-4066-9b2d-7ede17186164_groningen.jpg",
+            "width": 880,
+            "height": 495
+          },
+          {
+            "type": "480",
+            "url": "//english.ajax.nl/upload_mm/4/7/9/702a636b-f107-4066-9b2d-7ede17186164_groningen_853x480.jpg",
+            "width": 853,
+            "height": 480
+          }
         ]
-      }
-      ,
-      {
-        "id": 442653,
-        "url": "\/\/apolonia.al\/matches.json?channel=json",
-        "share_url": "\/\/apolonia.al\/streams\/matches.htm",
-        "slug": "matches",
-        "title": "Matches",
-        "caption": "",
-        "subcaption": "",
-        "ctaText": "",
-        "heroArticlePreview": 
-        {
-            "dummy": ""
-        },
-        "last_updated": 1521533940380,
-        "default": false,
-        "media": {
-          "id": "442653_metadata",
-          "type": "image",
-          "urls": [
-              {
-                  "type": "1440",
-                  "url": "\/\/english.ajax.nl\/upload\/702a636b-f107-4066-9b2d-7ede17186164_groningen.jpg",
-                  "width": 880,
-                  "height": 495
-              },
-              {
-                  "type": "480",
-                  "url": "\/\/english.ajax.nl\/upload_mm\/4\/7\/9\/702a636b-f107-4066-9b2d-7ede17186164_groningen_853x480.jpg",
-                  "width": 853,
-                  "height": 480
-              }
-          ]
-        },
-        "sectioning": [
-            "week"
+      },
+      "sectioning": [
+        "week"
+      ]
+    },
+    {
+      "id": 445583,
+      "url": "//apolonia.al/youth-academy.json?channel=json",
+      "share_url": "//apolonia.al/streams/youth-academy.htm",
+      "slug": "youth-academy",
+      "title": "Youth Academy",
+      "caption": "",
+      "subcaption": "",
+      "ctaText": "",
+      "heroArticlePreview": {
+        "dummy": ""
+      },
+      "last_updated": 1521540360607,
+      "default": false,
+      "media": {
+        "id": "445583_metadata",
+        "type": "image",
+        "urls": [
+          {
+            "type": "1440",
+            "url": "//english.ajax.nl/upload/23380139-351a-4ad3-a9de-43a0d56c97d3_youth.jpg",
+            "width": 1440,
+            "height": 810
+          },
+          {
+            "type": "480",
+            "url": "//english.ajax.nl/upload_mm/1/4/0/23380139-351a-4ad3-a9de-43a0d56c97d3_youth_853x480.jpg",
+            "width": 853,
+            "height": 480
+          }
         ]
-      }
-      ,
-      {
-        "id": 445583,
-        "url": "\/\/apolonia.al\/youth-academy.json?channel=json",
-        "share_url": "\/\/apolonia.al\/streams\/youth-academy.htm",
-        "slug": "youth-academy",
-        "title": "Youth Academy",
-        "caption": "",
-        "subcaption": "",
-        "ctaText": "",
-        "heroArticlePreview": 
-        {
-            "dummy": ""
-        },
-        "last_updated": 1521540360607,
-        "default": false,
-        "media": {
-          "id": "445583_metadata",
-          "type": "image",
-          "urls": [
-              {
-                  "type": "1440",
-                  "url": "\/\/english.ajax.nl\/upload\/23380139-351a-4ad3-a9de-43a0d56c97d3_youth.jpg",
-                  "width": 1440,
-                  "height": 810
-              },
-              {
-                  "type": "480",
-                  "url": "\/\/english.ajax.nl\/upload_mm\/1\/4\/0\/23380139-351a-4ad3-a9de-43a0d56c97d3_youth_853x480.jpg",
-                  "width": 853,
-                  "height": 480
-              }
-          ]
-        },
-        "sectioning": [
-            "week"
-        ]
-      }
-]  
-	  	}
+      },
+      "sectioning": [
+        "week"
+      ]
+    }
+  ]
+}

@@ -1,270 +1,340 @@
-		{
-			"code": 200,
-	  		"data":
-	      			{ 
-	      					
-	      				  "excludeterms": "",
-  "stream":
-[
-	          {
-  "id": 64755,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/highlights-de-graafschap-ajax-reserves-1.htm?channel=json",
-  "slug": "highlights-de-graafschap-ajax-reserves-1",
-  "title": "Highlights De Graafschap - Ajax Reserves",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64755_http:\/\/www.ajax.nl\/upload_mm\/4\/e\/a\/cid64755_De%20Graafschap%20-%20Jong%20Ajax.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/a\/c\/9\/cid64755_De%20Graafschap%20-%20Jong%20Ajax_360x201.jpg",
-            "width": 360,
-            "height": 201
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1521370800,
-  "prominent": false,
-  "length": 344,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-	          ,
 {
-  "id": 64683,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/ajax-discover-new-academy-talent-during-the-talent-days-.htm?channel=json",
-  "slug": "ajax-discover-new-academy-talent-during-the-talent-days-",
-  "title": "Ajax discover new Academy talent during the Talent Days ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64683_http:\/\/www.ajax.nl\/upload_mm\/d\/c\/3\/cid64683_Talentendagen.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/2\/0\/1\/cid64683_Talentendagen_360x201.jpg",
-            "width": 360,
-            "height": 201
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1520425560,
-  "prominent": false,
-  "length": 223,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
+  "code": 200,
+  "data": {
+    "excludeterms": "",
+    "stream": [
+      {
+        "id": 64755,
+        "url": "//english.ajax.nl/streams/youth-academy/highlights-de-graafschap-ajax-reserves-1.htm?channel=json",
+        "slug": "highlights-de-graafschap-ajax-reserves-1",
+        "title": "Highlights De Graafschap - Ajax Reserves",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64755_http://www.ajax.nl/upload_mm/4/e/a/cid64755_De%20Graafschap%20-%20Jong%20Ajax.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/a/c/9/cid64755_De%20Graafschap%20-%20Jong%20Ajax_360x201.jpg",
+              "width": 360,
+              "height": 201
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1521370800,
+        "prominent": false,
+        "length": 344,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64683,
+        "url": "//english.ajax.nl/streams/youth-academy/ajax-discover-new-academy-talent-during-the-talent-days-.htm?channel=json",
+        "slug": "ajax-discover-new-academy-talent-during-the-talent-days-",
+        "title": "Ajax discover new Academy talent during the Talent Days ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64683_http://www.ajax.nl/upload_mm/d/c/3/cid64683_Talentendagen.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/2/0/1/cid64683_Talentendagen_360x201.jpg",
+              "width": 360,
+              "height": 201
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1520425560,
+        "prominent": false,
+        "length": 223,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64387,
+        "url": "//english.ajax.nl/streams/youth-academy/highlights-ajax-u19-feyenoord-u19-1.htm?channel=json",
+        "slug": "highlights-ajax-u19-feyenoord-u19-1",
+        "title": "Highlights Ajax U19 – Feyenoord U19 ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64387_http://www.ajax.nl/upload_mm/d/d/c/cid64387_Ajax%20O19.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/d/c/7/cid64387_Ajax%20O19_360x222.jpg",
+              "width": 360,
+              "height": 222
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1518846300,
+        "prominent": false,
+        "length": 357,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64320,
+        "url": "//english.ajax.nl/streams/youth-academy/highlights-telstar-ajax-reserves-1.htm?channel=json",
+        "slug": "highlights-telstar-ajax-reserves-1",
+        "title": "Highlights Telstar – Ajax Reserves  ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64320_http://www.ajax.nl/upload_mm/4/b/d/cid64320_Ajax%20RES.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/2/4/f/cid64320_Ajax%20RES_360x203.jpg",
+              "width": 360,
+              "height": 203
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1518253200,
+        "prominent": false,
+        "length": 375,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64318,
+        "url": "//english.ajax.nl/streams/youth-academy/highlights-ajax-u19-psg-u19-youth-league-.htm?channel=json",
+        "slug": "highlights-ajax-u19-psg-u19-youth-league-",
+        "title": "Highlights Ajax U19 – PSG U19 (Youth League) ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64318_http://www.ajax.nl/upload_mm/4/b/0/cid64318_Ajax%20U19.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/e/b/b/cid64318_Ajax%20U19_360x202.jpg",
+              "width": 360,
+              "height": 202
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1517929200,
+        "prominent": false,
+        "length": 500,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64189,
+        "url": "//english.ajax.nl/streams/youth-academy/highlights-ajax-u19-vitesse-u19-.htm?channel=json",
+        "slug": "highlights-ajax-u19-vitesse-u19-",
+        "title": "Highlights Ajax U19 – Vitesse U19 ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64189_http://www.ajax.nl/upload_mm/c/0/a/cid64189_Ajax%20U19.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/8/1/1/cid64189_Ajax%20U19_360x222.jpg",
+              "width": 360,
+              "height": 222
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1517706000,
+        "prominent": false,
+        "length": 246,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64080,
+        "url": "//english.ajax.nl/streams/youth-academy/highlights-rkc-waalwijk-ajax-reserves-.htm?channel=json",
+        "slug": "highlights-rkc-waalwijk-ajax-reserves-",
+        "title": "Highlights RKC Waalwijk – Ajax Reserves ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64080_http://www.ajax.nl/upload_mm/6/e/7/cid64080_Jong%20Ajax.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/b/a/e/cid64080_Jong%20Ajax_360x201.jpg",
+              "width": 360,
+              "height": 201
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1517299200,
+        "prominent": false,
+        "length": 308,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64073,
+        "url": "//english.ajax.nl/article/youth-player-struijk-goes-to-leeds-united-fc-.htm?channel=json",
+        "slug": "youth-player-struijk-goes-to-leeds-united-fc-",
+        "title": "Youth player Struijk goes to Leeds United FC  ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64073_/upload_mm/7/f/4/cid64073_cid64070_Struijk.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//english.ajax.nl/upload_mm/0/d/c/cid64073_cid64070_Struijk_360x202.jpg",
+              "width": 360,
+              "height": 202
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1517234100,
+        "prominent": false,
+        "type": "article",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "English",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      },
+      {
+        "id": 64079,
+        "url": "//english.ajax.nl/streams/youth-academy/highlights-ajax-u17-feyenoord-u17-.htm?channel=json",
+        "slug": "highlights-ajax-u17-feyenoord-u17-",
+        "title": "Highlights Ajax U17 – Feyenoord U17 ",
+        "inStadionContent": false,
+        "thumbnail": {
+          "id": "64079_http://www.ajax.nl/upload_mm/a/2/d/cid64079_180127%20Ajax%20O17%20-%20Feyenoord%20O17%20YT%20MD.jpg",
+          "type": "image",
+          "urls": [
+            {
+              "type": "360",
+              "url": "//www.ajax.nl/upload_mm/c/b/7/cid64079_180127%20Ajax%20O17%20-%20Feyenoord%20O17%20YT%20MD_360x202.jpg",
+              "width": 360,
+              "height": 202
+            }
+          ],
+          "caption": ""
+        },
+        "date": 1517126400,
+        "prominent": false,
+        "length": 275,
+        "type": "wmavideomediaitem",
+        "channel_tags": [
+          "App",
+          "Web"
+        ],
+        "edit_tags": [
+          "EnglishVideo",
+          "SpanishVideo",
+          "App",
+          "YouthAcademy",
+          "Web"
+        ],
+        "tag": "",
+        "isAuthorized": ""
+      }
+    ],
+    "dummy": []
+  }
 }
-	          ,
-{
-  "id": 64387,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/highlights-ajax-u19-feyenoord-u19-1.htm?channel=json",
-  "slug": "highlights-ajax-u19-feyenoord-u19-1",
-  "title": "Highlights Ajax U19 – Feyenoord U19 ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64387_http:\/\/www.ajax.nl\/upload_mm\/d\/d\/c\/cid64387_Ajax%20O19.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/d\/c\/7\/cid64387_Ajax%20O19_360x222.jpg",
-            "width": 360,
-            "height": 222
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1518846300,
-  "prominent": false,
-  "length": 357,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-	          ,
-{
-  "id": 64320,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/highlights-telstar-ajax-reserves-1.htm?channel=json",
-  "slug": "highlights-telstar-ajax-reserves-1",
-  "title": "Highlights Telstar – Ajax Reserves  ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64320_http:\/\/www.ajax.nl\/upload_mm\/4\/b\/d\/cid64320_Ajax%20RES.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/2\/4\/f\/cid64320_Ajax%20RES_360x203.jpg",
-            "width": 360,
-            "height": 203
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1518253200,
-  "prominent": false,
-  "length": 375,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-	          ,
-{
-  "id": 64318,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/highlights-ajax-u19-psg-u19-youth-league-.htm?channel=json",
-  "slug": "highlights-ajax-u19-psg-u19-youth-league-",
-  "title": "Highlights Ajax U19 – PSG U19 (Youth League) ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64318_http:\/\/www.ajax.nl\/upload_mm\/4\/b\/0\/cid64318_Ajax%20U19.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/e\/b\/b\/cid64318_Ajax%20U19_360x202.jpg",
-            "width": 360,
-            "height": 202
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1517929200,
-  "prominent": false,
-  "length": 500,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-	          ,
-{
-  "id": 64189,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/highlights-ajax-u19-vitesse-u19-.htm?channel=json",
-  "slug": "highlights-ajax-u19-vitesse-u19-",
-  "title": "Highlights Ajax U19 – Vitesse U19 ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64189_http:\/\/www.ajax.nl\/upload_mm\/c\/0\/a\/cid64189_Ajax%20U19.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/8\/1\/1\/cid64189_Ajax%20U19_360x222.jpg",
-            "width": 360,
-            "height": 222
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1517706000,
-  "prominent": false,
-  "length": 246,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-	          ,
-{
-  "id": 64080,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/highlights-rkc-waalwijk-ajax-reserves-.htm?channel=json",
-  "slug": "highlights-rkc-waalwijk-ajax-reserves-",
-  "title": "Highlights RKC Waalwijk – Ajax Reserves ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64080_http:\/\/www.ajax.nl\/upload_mm\/6\/e\/7\/cid64080_Jong%20Ajax.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/b\/a\/e\/cid64080_Jong%20Ajax_360x201.jpg",
-            "width": 360,
-            "height": 201
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1517299200,
-  "prominent": false,
-  "length": 308,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-	          ,
-{
-  "id": 64073,
-  "url": "\/\/english.ajax.nl\/article\/youth-player-struijk-goes-to-leeds-united-fc-.htm?channel=json",
-  "slug": "youth-player-struijk-goes-to-leeds-united-fc-",
-  "title": "Youth player Struijk goes to Leeds United FC  ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64073_\/upload_mm\/7\/f\/4\/cid64073_cid64070_Struijk.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/english.ajax.nl\/upload_mm\/0\/d\/c\/cid64073_cid64070_Struijk_360x202.jpg",
-            "width": 360,
-            "height": 202
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1517234100,
-  "prominent": false,
-  "type": "article",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["English", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-	          ,
-{
-  "id": 64079,
-  "url": "\/\/english.ajax.nl\/streams\/youth-academy\/highlights-ajax-u17-feyenoord-u17-.htm?channel=json",
-  "slug": "highlights-ajax-u17-feyenoord-u17-",
-  "title": "Highlights Ajax U17 – Feyenoord U17 ",
-  "inStadionContent": false,
-  "thumbnail": {
-    "id": "64079_http:\/\/www.ajax.nl\/upload_mm\/a\/2\/d\/cid64079_180127%20Ajax%20O17%20-%20Feyenoord%20O17%20YT%20MD.jpg",
-    "type": "image",
-    "urls": [ 
-    	{
-    		"type": "360",
-    		"url": "\/\/www.ajax.nl\/upload_mm\/c\/b\/7\/cid64079_180127%20Ajax%20O17%20-%20Feyenoord%20O17%20YT%20MD_360x202.jpg",
-            "width": 360,
-            "height": 202
-        }
-     ],
-    "caption": ""
-    }, 
-  "date": 1517126400,
-  "prominent": false,
-  "length": 275,
-  "type": "wmavideomediaitem",
-  "channel_tags": ["App", "Web"],
-  "edit_tags": ["EnglishVideo", "SpanishVideo", "App", "YouthAcademy", "Web"],
-  "tag": "",
-  "isAuthorized": ""
-}
-],	 
-	      			  "dummy": [] }
-	  	}
