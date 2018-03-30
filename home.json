@@ -6,15 +6,15 @@
       "url": "//apolonia.al/ajax-now.json?channel=json",
       "share_url": "//apolonia.al/streams/ajax-now.htm",
       "slug": "ajax-now",
-      "title": "Ajax Now",
+      "title": "Te Fundit",
       "caption": "",
       "subcaption": "",
-      "ctaText": "Read",
+      "ctaText": "Lexo...",
       "heroArticlePreview": {
         "id": 64829,
         "url": "//english.ajax.nl/streams/ajax-now/ajax-reserves-lose-to-az-reserves-at-home-.htm?channel=json",
         "slug": "ajax-reserves-lose-to-az-reserves-at-home-",
-        "title": "Ajax Reserves lose to AZ Reserves at home  ",
+        "title": "Apolonia kualifikohet per fazen tjeter! ",
         "inStadionContent": false,
         "date": 1522097520,
         "channel_tags": [
@@ -35,7 +35,7 @@
           "urls": [
             {
               "type": "800",
-              "url": "//english.ajax.nl/upload_mm/a/9/7/cid64829_cid64811_JONG.jpg",
+              "url": "https://alchetron.com/cdn/kf-apolonia-fier-39004707-10ce-43ff-8077-abc904e3788-resize-750.jpeg",
               "width": 878,
               "height": 495
             }
@@ -43,12 +43,12 @@
           "caption": ""
         },
         "thumbnail": {
-          "id": "64829_/upload_mm/a/9/7/cid64829_cid64811_JONG.jpg",
+          "id": "https://alchetron.com/cdn/kf-apolonia-fier-39004707-10ce-43ff-8077-abc904e3788-resize-750.jpeg",
           "type": "image",
           "urls": [
             {
               "type": "660",
-              "url": "//english.ajax.nl/upload_mm/4/4/6/cid64829_cid64811_JONG_800x451.jpg",
+              "url": "https://alchetron.com/cdn/kf-apolonia-fier-39004707-10ce-43ff-8077-abc904e3788-resize-750.jpeg",
               "width": 800,
               "height": 451
             }
@@ -66,13 +66,13 @@
         "urls": [
           {
             "type": "1440",
-            "url": "//english.ajax.nl/upload_mm/a/9/7/cid64829_cid64811_JONG.jpg",
+            "url": "https://alchetron.com/cdn/kf-apolonia-fier-39004707-10ce-43ff-8077-abc904e3788-resize-750.jpeg",
             "width": 878,
             "height": 495
           },
           {
             "type": "480",
-            "url": "//english.ajax.nl/upload_mm/8/8/4/cid64829_cid64811_JONG_851x480.jpg",
+            "url": "https://alchetron.com/cdn/kf-apolonia-fier-39004707-10ce-43ff-8077-abc904e3788-resize-750.jpeg",
             "width": 851,
             "height": 480
           }
@@ -87,7 +87,7 @@
       "url": "//apolonia.al/matches.json?channel=json",
       "share_url": "//apolonia.al/streams/matches.htm",
       "slug": "matches",
-      "title": "Matches",
+      "title": "Ndeshjet",
       "caption": "",
       "subcaption": "",
       "ctaText": "",
@@ -123,7 +123,7 @@
       "url": "//apolonia.al/youth-academy.json?channel=json",
       "share_url": "//apolonia.al/streams/youth-academy.htm",
       "slug": "youth-academy",
-      "title": "Youth Academy",
+      "title": "Akademia",
       "caption": "",
       "subcaption": "",
       "ctaText": "",
