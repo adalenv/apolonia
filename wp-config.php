@@ -26,7 +26,7 @@ define('DB_NAME', 'apolonia');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'vladi');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');

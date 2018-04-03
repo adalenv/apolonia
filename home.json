@@ -84,7 +84,7 @@
     },
     {
       "id": 442653,
-      "url": "//apolonia.al/matches.json?channel=json",
+      "url": "//apolonia.al/echo.php?channel=json",
       "share_url": "//apolonia.al/streams/matches.htm",
       "slug": "matches",
       "title": "Ndeshjet",
