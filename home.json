@@ -3,7 +3,7 @@
   "data": [
     {
       "id": 442681,
-      "url": "//apolonia.al/ajax-now.json?channel=json",
+      "url": "//apolonia.al/echo.php?cat=3",
       "share_url": "//apolonia.al/streams/ajax-now.htm",
       "slug": "ajax-now",
       "title": "Te Fundit",
@@ -84,7 +84,7 @@
     },
     {
       "id": 442653,
-      "url": "//apolonia.al/echo.php?channel=json",
+      "url": "//apolonia.al/echo.php?cat=2",
       "share_url": "//apolonia.al/streams/matches.htm",
       "slug": "matches",
       "title": "Ndeshjet",
@@ -120,7 +120,7 @@
     },
     {
       "id": 445583,
-      "url": "//apolonia.al/youth-academy.json?channel=json",
+      "url": "//apolonia.al/echo.php?cat=4",
       "share_url": "//apolonia.al/streams/youth-academy.htm",
       "slug": "youth-academy",
       "title": "Akademia",
