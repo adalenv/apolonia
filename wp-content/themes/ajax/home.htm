@@ -2420,41 +2420,7 @@
     var contextPath = "/web";
 </script>
 <script type="text/javascript" src="/static/ajaxpresentation/js/iaf/formvalidationbindings.js"></script>
-								<script>
-$(document).ready(function() {
-  $(window).on("LOCATION_CHANGED",function() {
-    if (window.blueConicClient) {
-      //BC loaded, handle PAGEVIEW
-      window.blueConicClient.handlePageView();
-    } else {
-      //BC not loaded yet, load it now
-            (function() {
-  this.bcHostname = 'ajax.blueconic.net';
-  var protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
-  var bcScript = document.createElement('script');bcScript.async = true;
-  bcScript.src = protocol + this.bcHostname + '/frontend/static/javascript/blueconic/blueconic.min.js';
-  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bcScript);
-})();
-    }
-    if (ga) {
-      ga('send', 'pageview', document.location.pathname);
-    }
-  });
-});
-</script>
-				<!-- Google Search -->
-				<script>
-				(function() {
-					var cx = '004564777151179624393:o5dioyw-m00';
-					var gcse = document.createElement('script');
-					gcse.type = 'text/javascript';
-					gcse.async = true;
-					gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-							'//cse.google.com/cse.js?cx=' + cx;
-					var s = document.getElementsByTagName('script')[0];
-					s.parentNode.insertBefore(gcse, s);
-				})();
-				</script>
+	
 				<!-- Blue Billywig Video API -->
 				<script src="//ajax.bbvms.com/launchpad/"></script>
 <script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","348539122208250",{em:"too@root.com"},{agent:"tmgoogletagmanager"});fbq("track","PageView");</script>

@@ -534,28 +534,7 @@
     var contextPath = "/web";
 </script>
 <script type="text/javascript" src="static\ajaxpresentation\js\iaf\formvalidationbindings.js"></script>
-								<script>
-$(document).ready(function() {
-  $(window).on("LOCATION_CHANGED",function() {
-    if (window.blueConicClient) {
-      //BC loaded, handle PAGEVIEW
-      window.blueConicClient.handlePageView();
-    } else {
-      //BC not loaded yet, load it now
-            (function() {
-  this.bcHostname = 'ajax.blueconic.net';
-  var protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
-  var bcScript = document.createElement('script');bcScript.async = true;
-  bcScript.src = protocol + this.bcHostname + '/frontend/static/javascript/blueconic/blueconic.min.js';
-  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bcScript);
-})();
-    }
-   // if (ga) {
-      //ga('send', 'pageview', document.location.pathname);
-    //}
-  });
-});
-</script>
+
 				<!-- Blue Billywig Video API -->
 				<script src="//ajax.bbvms.com/launchpad/"></script>
 			
