@@ -1846,12 +1846,17 @@
             this.$window = e, this.$http = t, this.$q = r, this.$state = i, this.$location = n, this.homeArticleFactory = a, this.urlService = o, this.DEFAULT_ARTICLE_STATE = "home.stream.article"
         }
         return e.$inject = ["$window", "$http", "$q", "$state", "$location", "homeArticleFactory", "urlService"], e.prototype.openArticle = function(e, t) {
+            window['thelink']=e;
             function r() {
-                i.$state.go(i.getArticleStateName(), {
-                    articleSlug: e
+               i.$state.go(i.getArticleStateName(), {
+                   articleSlug: e
                 }, {
-                    inherit: !0
+                   inherit: !0
                 })
+               
+
+                
+       
             }
             var i = this;
             "true" === angular.element(this.$window.document.body).attr("data-matchday") && "undefined" != typeof t ? ("undefined" != typeof m2active && m2active.callback('{"action": "NAVIGATION",  "source": "MAIN",  "destination": "' + t + '", "slug": "' + e + '"}'), "ARTICLE" === t && r()) : r()
@@ -1879,6 +1884,24 @@
                 r.reject()
             }), r.promise
         }, e.prototype.getUrl = function(e, t, r) {
+             console.log(window.thelink);
+                     $.ajax({
+                        url: 'http://apolonia.al/wp-json/wp/v2/posts?slug='+window.thelink,
+                        type: 'GET',
+                        dataType: 'json',
+                    })
+                    .done(function(data) {
+                        
+                        window['c_post']=data;
+                        console.log(c_post);
+                        $('.article-content').html(window.c_post[0].title);
+                    })
+                    .fail(function() {
+                        console.log("error");
+                    })
+                    .always(function() {
+                        console.log("complete");
+                    });
             var i = angular.element(this.$window.document.body).attr("data-articlefeedurl");
             return i = i.replace("{streamSlug}", e).replace("{articleSlug}", t), i.indexOf("jungleminds") !== -1 && (r = !1), r ? this.$location.protocol() + "://" + this.$location.host() + i : i
         }, e

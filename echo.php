@@ -3,6 +3,7 @@
 // 1- uncategory
 // 2- matches
 // 3- latest
+// 4- academy
 if (isset($_GET['cat'])) {
 	$cat=$_GET['cat'];
 } else {
@@ -25,7 +26,7 @@ foreach ($posts as $key => $post) {
 	}
 	$output.= '{';
 		$output.= '"id":'.$post['id'].',';
-		$output.= '"url":"http://apolonia.al/testpost.json?id='.$post['id'].'",';
+		$output.= '"url":"http://apolonia.al/echoPost.json?id='.$post['id'].'",';
 		$output.= '"slug":"'.$post['slug'].'",';
 		$output.= '"title":"'.$post['title']['rendered'].'",';
 		$output.= '"inStadionContent": false,';
