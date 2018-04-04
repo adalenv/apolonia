@@ -1,6 +1,15 @@
 <?php
 
-$posts = json_decode(file_get_contents("http://apolonia.al/wp-json/wp/v2/posts"), true);
+// 1- uncategory
+// 2- matches
+// 3- latest
+if (isset($_GET['cat'])) {
+	$cat=$_GET['cat'];
+} else {
+	$cat=3;
+}
+
+$posts = json_decode(file_get_contents("http://apolonia.al/wp-json/wp/v2/posts?categories=".$cat), true);
 //print_r($posts);
 $head='{"code": 200,"data": {"excludeterms": "","stream": [';
 $foot='],"dummy": []}}';
@@ -12,24 +21,35 @@ foreach ($posts as $key => $post) {
 	if(isset($img[0]['guid']['rendered'])){
 		$img=$img[0]['guid']['rendered'];
 	}else {
-		$img='';
+		$img="static/ajaxpresentation/img/logo.png";
 	}
 	$output.= '{';
 		$output.= '"id":'.$post['id'].',';
-		$output.= '"url":"http://apolonia.al/wp-json/wp/v2/posts/'.$post['id'].'",';
-		$output.= '"slug":"'.$post['slug'].'",';
+		$output.= '"url":"http://apolonia.al/testpost.json?id='.$post['id'].'",';
+		$output.= '"slug":"testpost.json",';
 		$output.= '"title":"'.$post['title']['rendered'].'",';
 		$output.= '"inStadionContent": false,';
 
-		$output.='"thumbnail":{';
-			$output.='"id":"'.$img.'",';
-			$output.='"type":"image",';
-			$output.='"caption":""';
-			$output.=
-		$output.='},';
+		$output.= '"thumbnail":{';
+			$output.= '"id":"'.$img.'",';
+			$output.= '"type":"image",';
+			$output.= '"caption":"",';
+			$output.= '"urls":[{';
+				$output.= '"type":"360",';
+				$output.= '"url":"'.$img.'",';
+				$output.= '"width":360,';
+				$output.= '"height":203';
+			$output.= '}]';
+
+		$output.= '},';
 
 		$output.= '"date":'.strtotime($post['date']).',';
-		$output.='"inStadionContent": false';
+		$output.= '"prominent": false,';
+		$output.= '"type": "article",';
+		$output.= '"channel_tags":[ "App", "Web"],';
+		$output.= '"tag":"",';
+		$output.= '"isAuthorized":""';
+
 		$output.= '}';
 
 	if ($post!=end($posts)) {
