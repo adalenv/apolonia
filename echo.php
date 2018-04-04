@@ -26,7 +26,7 @@ foreach ($posts as $key => $post) {
 	$output.= '{';
 		$output.= '"id":'.$post['id'].',';
 		$output.= '"url":"http://apolonia.al/testpost.json?id='.$post['id'].'",';
-		$output.= '"slug":"testpost.json",';
+		$output.= '"slug":"'.$post['slug'].'",';
 		$output.= '"title":"'.$post['title']['rendered'].'",';
 		$output.= '"inStadionContent": false,';
 
