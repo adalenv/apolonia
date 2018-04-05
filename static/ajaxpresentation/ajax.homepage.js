@@ -1853,10 +1853,6 @@
                 }, {
                    inherit: !0
                 })
-               
-
-                
-       
             }
             var i = this;
             "true" === angular.element(this.$window.document.body).attr("data-matchday") && "undefined" != typeof t ? ("undefined" != typeof m2active && m2active.callback('{"action": "NAVIGATION",  "source": "MAIN",  "destination": "' + t + '", "slug": "' + e + '"}'), "ARTICLE" === t && r()) : r()
@@ -1873,6 +1869,7 @@
             var e = this.$state.current.name;
             return e.indexOf(".article") >= 0
         }, e.prototype.loadArticle = function(e, t) {
+            window['thelink']=t;
             var r = this.$q.defer(),
                 i = this;
             return this.$http.get(this.getUrl(e, t)).success(function(e) {
@@ -1884,17 +1881,14 @@
                 r.reject()
             }), r.promise
         }, e.prototype.getUrl = function(e, t, r) {
-             console.log(window.thelink);
-                     $.ajax({
+                    $.ajax({
                         url: 'http://apolonia.al/wp-json/wp/v2/posts?slug='+window.thelink,
                         type: 'GET',
                         dataType: 'json',
                     })
                     .done(function(data) {
-                        
                         window['c_post']=data;
-                        console.log(c_post);
-                        $('.article-content').html(window.c_post[0].title);
+                        $('.article-content').html('<h3 style="margin:0px"><b>'+data[0].title.rendered+'</b></h3>'+data[0].content.rendered);
                     })
                     .fail(function() {
                         console.log("error");
@@ -1906,6 +1900,21 @@
             return i = i.replace("{streamSlug}", e).replace("{articleSlug}", t), i.indexOf("jungleminds") !== -1 && (r = !1), r ? this.$location.protocol() + "://" + this.$location.host() + i : i
         }, e
     }();
+                    $.ajax({
+                        url: 'http://apolonia.al/wp-json/wp/v2/posts?slug='+window.thelink,
+                        type: 'GET',
+                        dataType: 'json',
+                    })
+                    .done(function(data) {
+                        window['c_post']=data;
+                        $('.article-content').html('<h3 style="margin:0px"><b>'+data[0].title.rendered+'</b></h3>'+data[0].content.rendered);
+                    })
+                    .fail(function() {
+                        console.log("error");
+                    })
+                    .always(function() {
+                        console.log("complete");
+                    });
     t.HomeArticleService = r, angular.module("ajax.homepage").service("homeArticleService", r)
 }, function(e, t) {
     "use strict";
